@@ -22,4 +22,9 @@ A Python web scraper that extracts job listings from a sample job board and save
 """
 
 with open("README.md", "w") as f:
+
     f.write(readme)
+
+    ## Project Source
+Data scraped from:
+https://realpython.github.io/fake-jobs/
