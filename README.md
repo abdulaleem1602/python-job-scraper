@@ -1,0 +1,25 @@
+readme = """
+# Python Job Listings Scraper
+
+A Python web scraper that extracts job listings from a sample job board and saves them into a CSV file.
+
+## Features
+- Scrapes job title, company, location, and link
+- Handles missing data
+- Saves output to CSV
+
+## Technologies
+- Python
+- Requests
+- BeautifulSoup
+
+## How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the script:
+   python scraper.py
+"""
+
+with open("README.md", "w") as f:
+    f.write(readme)
