@@ -28,3 +28,11 @@ with open("README.md", "w") as f:
     ## Project Source
 Data scraped from:
 https://realpython.github.io/fake-jobs/
+
+# Python Job Listings Scraper
+
+## Project Reference
+This project is based on:
+https://roadmap.sh/projects/job-listings-scraper
+
+A Python web scraper that extracts job listings from a sample job board and saves them into a CSV file.
